@@ -47,7 +47,7 @@ featuring:
 
 -   Installing required packages\
     `sudo apt install bind9 bind9utils bind9-doc -y`\
-    ![Package installation](C:\Users\kamen\OneDrive\Pictures\UBUNTU READY\install.png)
+    ![Package installation](images/install.png)
 
 -   Verifying service status\
     ![Service status](images/bind-service.png)
